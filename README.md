@@ -1,1 +1,1 @@
-https://github.com/manoellion/pirmeiro-projeto.git
+https://manoellion.github.io/pirmeiro-projeto/
