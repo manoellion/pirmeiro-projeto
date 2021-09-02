@@ -1,6 +1,6 @@
 *{
     background-color: rgb(151, 123, 123);
-    
+    margin: 2%;
 }
 img{
     display: block;
@@ -26,6 +26,8 @@ ul,a{
     margin: auto;
     width: 50%;
     color: black;   
+    border-style: dotted;
+   
 }
 a:visited{
     color: chartreuse;
