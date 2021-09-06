@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(151, 123, 123);
+    background-color: rgb(172, 111, 102);
     margin: 2%;
 }
 img{
@@ -30,11 +30,18 @@ ul,a{
    
 }
 a:visited{
-    color: chartreuse;
+    color: rgb(52, 56, 47);
 }
 a:hover{
     color: white;
 }
 a:active{
     color:tomato;
+}
+u{
+    background-color: seagreen;
+}
+iframe{
+  display: block;
+   margin: auto;
 }
