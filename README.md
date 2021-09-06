@@ -26,14 +26,16 @@
             sistemas operacionais
         </h1>
         <p>
-            O sistema operacional então serve de interface entre o ususario e os recursos de hardware,
+            <u>O sistema operacional então serve de interface entre o ususario e os recursos de hardware</u>,
             tornando esta comunicação transparente ou imperceptivel e permitindo ao usuario um trabalho mais eficiente e
             com
             menos possibilidades de erros.<br>
-            não é só no controle do acesso a hardware compartilhado que o sistema operacional atua, ele nos permite
-            executar
-            varias tarefas, como operacional atual, eles nos permite executar varias tarefas, como imprimir um documeto,
-            copiar um arquivo pela ineternet ou processar uma planilha, entre outros, O SO deve ser capaz de controlar a
+            <u> não é só no controle do acesso a hardware compartilhado que o sistema operacional atua, ele nos permite
+                executar
+                varias tarefas</u>, como operacional atual, eles nos permite executar varias tarefas, <u>como imprimir
+                um documeto,
+                copiar um arquivo pela ineternet ou processar uma planilha, entre outros</u>, O SO deve ser capaz de
+            controlar a
             execução concorrente de todas essas tarefas.
         </p>
         <p>
@@ -44,16 +46,19 @@
             como desenhar uma janela ou imprimir um documento.
         </p>
         <p>
-            A evolução dos processadores de entrada/saída permitiu que, enquanto um programa esperasse por uma operação
-            de
-            leitura/gravação,
-            o processador executasse um outro programa. A técnica de compartilhamento da memória principal e processador
-            deu
-            se o nome de multiprogramação. A multiprogramação evoluiu, preocupada em oferecer aos usuários tempos de
-            resposta razoáveis e uma interface cada vez mais amigável.
-            Para tal, cada programa na memória utilizaria o processador em pequenos intervalos de tempo. A esse sistema
-            de
-            divisão de tempo do processador chamou-se time-sharing (tempo compartilhado).
+            <u>A evolução dos processadores de entrada/saída permitiu que, enquanto um programa esperasse por uma
+                operação
+                de
+                leitura/gravação,
+                o processador executasse um outro programa. A técnica de compartilhamento da memória principal e
+                processador
+                deu
+                se o nome de multiprogramação. A multiprogramação evoluiu, preocupada em oferecer aos usuários tempos de
+                resposta razoáveis e uma interface cada vez mais amigável.
+                Para tal, cada programa na memória utilizaria o processador em pequenos intervalos de tempo. A esse
+                sistema
+                de
+                divisão de tempo do processador chamou-se time-sharing (tempo compartilhado).</u>
         </p>
         <p>
             Monoprogramáveis ou Monotarefa podem executar apenas um programa por vez. Para que um usuário possa executar
@@ -68,9 +73,11 @@
             execução. Cabe ao sistema operacional o papel de gerenciar de forma ordenada e protegida o acesso
             concorrente
             aos recursos disponíveis.
-            A grande diferença entre os dois tipos de sistemas é que em sistemas fortemente acoplados existe uma memória
-            compartilhada por todos os processadores, enquanto nos fracamente acoplados, cada sistema tem sua própria
-            memória individual.
+            A grande diferença entre os dois tipos de sistemas é que <u>em sistemas fortemente acoplados existe uma
+                memória
+                compartilhada por todos os processadores, enquanto nos fracamente acoplados, cada sistema tem sua
+                própria
+                memória individual.</u>
         </p>
     </div>
     <hr>
@@ -82,7 +89,7 @@
     <div>
         <h2>##sistemas operacionais##</h2>
         <p>
-            sistema operacional embarcado: um SO sortware que so funciona em um hardware especifico
+            <u>sistema operacional embarcado: um SO sortware que so funciona em um hardware especifico</u>
             ex: dvd, tv, carro, celular iphone, ou seja não tem como usar um SO de uma geladeira em uma tv e etc..
         </p>
         <h3>
@@ -95,49 +102,54 @@
             #tipos de sistemas operacionais #
         </h4>
         <p>
-            sistemas Monoprogramaveis ou monotarefas: permite que todos os recursos do sistema fiquem exclusivamente a
-            uma
-            unica tarefa.
-            sistemas multiprogramaveis ou multitarefas: varias aplicações compartilham os mesmo recursos
-            sistemas multilos procesadores: pode possuir duas ou mais UCP's interligadas e trabalhando em conjunto, esse
-            tipo de sistema permiti executar varios programas ao mesmo tempo, subdividindo em partes para serem
-            executadas
-            simutaneamente em mais de um processador. e pode ter dois tipos.
-            *fracamente acplados: hardware distintos e interconectados por uma mesma linha de comunicação. pode possuir
-            ate
-            mais de dois sistemas interligados, seus processadores estão em arquiteturas diferentes interligados por
-            cabos
-            interconexão
-            * fortemente aclopados: ta no mesmo hardware e no mesmo sitema operacional. existe mais de um processador,
-            onde
-            eles compartilham apenas uma memoria e um sistema operacional que gerencia os dispositivos de E/S. Quando os
-            processadores são iguais podemos chama-los sistema simetrico, mas quando são processadores diferentes
-            chamados
-            assimetricos.
+            <u>sistemas Monoprogramaveis ou monotarefas: permite que todos os recursos do sistema fiquem exclusivamente
+                a
+                uma
+                unica tarefa.
+                sistemas multiprogramaveis ou multitarefas: varias aplicações compartilham os mesmo recursos
+                sistemas multiplos procesadores: pode possuir duas ou mais UCP's interligadas e trabalhando em conjunto,
+                esse
+                tipo de sistema permiti executar varios programas ao mesmo tempo, subdividindo em partes para serem
+                executadas
+                simutaneamente em mais de um processador. e pode ter dois tipos.
+                *fracamente acplados: hardware distintos e interconectados por uma mesma linha de comunicação. pode
+                possuir
+                ate
+                mais de dois sistemas interligados, seus processadores estão em arquiteturas diferentes interligados por
+                cabos
+                interconexão
+                * fortemente aclopados: ta no mesmo hardware e no mesmo sistema operacional. existe mais de um
+                processador,
+                onde
+                eles compartilham apenas uma memoria e um sistema operacional que gerencia os dispositivos de E/S.
+                Quando os
+                processadores são iguais podemos chama-los sistema simetrico, mas quando são processadores diferentes
+                chamados
+                assimetricos.</u>
         </p>
         <a href="#inicio">volte para o topo da pagina</a>
     </div>
     <h4 id="link3">#processador#</h4>
-    <p>gerencia todo o sistema computacional, e controla e executa instruções na memoria principal. tambem controla e
-        executa as instruções na memoria principal. dentro do processador é composto por: unidade de controle, unidade
-        logica e arimética, registradores
+    <p>gerencia <u>todo o sistema computacional</u>, e <u>controla e executa instruções na memoria principal</u>. <u>Dentro
+        do processador é composto por: unidade de controle, unidade
+        logica e arimética e registradores.</u>
         unidade de controle: responsavel por gerenciar as atividades dos componentes do computador, como gravação de
         dados em disco ou a busca de isntruções na memoria.
         Unidade lógica e aritmetica: é responsavel pela realização de operações testes e comparações e aritmeticas,
         somas e subtrações.
         registradores são dipositivos com a função de armazenar dados temporariamente.
     </p>
+    <IFrame src="https://manoellion.github.io/conteudos-didaticos/"></IFrame>
+        <a href="https://manoellion.github.io/conteudos-didaticos/">ir para o site</a>
     <h4>#Registradores#</h4>
     <p>
         Contador de instruções (CI) ou program counter (PC) => contém o endereço da próxima instrução que o processador
         deve buscar e executar.
         Apontador de pilha (AP) ou stack pointer (SP) => contém o endereço de memória do topo da pilha.
-        memory address register, através do conteúdo deste registrador a unidade de controle sabe qual a célula de
-        memória que será acessada.
-        <br> MBR => memory buffer register, este registrador é utilizado para guardar o conteúdo de uma ou mais células
+        <br> MBR => memory buffer register, este registrador é utilizado para <u>guardar</u> o conteúdo de uma ou mais células
         de
         memória.
-        <br>MAR => memory address register, através do conteúdo deste registrador a unidade de controle sabe qual a
+        <br>MAR => memory address register, através do conteúdo deste registrador a unidade de controle <u>sabe qual</u> a
         célula de memória que será acessada.
     </p>
     <aside>
@@ -169,15 +181,15 @@
     </aside>
     <h4 id="link5">barramento</h4>
     <p>
-        É o meio de comunicação compartilhado que permite a comunicação entre as unidades funcionais de um sistema
-        computacional.
+        É o <u>meio de comunicação compartilhado que permite a comunicação entre as unidades funcionais de um sistema
+        computacional.</u>
     </p>
     <img src="imagens/barramento.png" alt="barramento">
     <h4>tipos de barramentos</h4>
     <dl>
         <dt> Barramentos processador-memória</dt>
         <dd>
-            Curtos, extremamente velozes;
+            <u>Curtos, extremamente velozes</u>;
             Maximizam a banda passante memória-processador;
             Geralmente, são proprietários do fabricante de processador e/ou máquina.
         </dd>
@@ -219,13 +231,14 @@
     <p>
         RISC – Reduced Instruction Set Computer
         Um processador com essa arquitetura se caracteriza por possui poucas instruções de máquina, em geral bastante
-        simples, que são executadas diretamente pelo hardware.
+        simples, que <u>são executadas diretamente pelo hardware.</u>
     </p>
     <p>
         CISC – Complex Instruction Set Computer
-        Possuem instruções mais complexas que são interpretadas por microprogramas
+        Possuem instruções mais complexas que <u>são interpretadas por microprogramas</u>
     </p>
     <img src="imagens/riscecisc.png" alt="risc e cisc">
     <a href="#inicio">volte para o topo da pagina</a>
 </body>
+
 </html>
